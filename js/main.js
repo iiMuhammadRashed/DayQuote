@@ -20,6 +20,10 @@ var Quotes = [
     author: "― Mae West",
     quote: "“You only live once, but if you do it right, once is enough.”",
   },
+  {
+    author: "― ضـهـر تـوك تـوك",
+    quote: "“.طـريـها الـناس لبعـضيـها”",
+  },
 ];
 
 function printRandomizeQuote() {
