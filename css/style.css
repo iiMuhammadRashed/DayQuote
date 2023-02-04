@@ -1,0 +1,15 @@
+/*!General Styles Start*/
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.75em;
+  color: rgb(65, 65, 65);
+}
+h1,
+h2 {
+  font-weight: bolder;
+  font-size: 3rem;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.quote_result {
+  transition: 0.3s ease-out;
+}
